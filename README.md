@@ -1,5 +1,17 @@
 # goit-node-hw-01
 
+## Получаем и выводим весь список контактов в виде таблицы
 
+![](https://i.ibb.co/tXyj0f7/action-list.png)
 
-[Monosnap](https://monosnap.com/list/63e6b09f72f98756d8910ee5)
+## Получаем контакт по id
+
+![](https://i.ibb.co/MCPSkRF/action-get.png)
+
+## Добавялем контакт
+
+![](https://i.ibb.co/NpNprrD/action-add.png)
+
+## Удаляем контакт
+
+![](https://i.ibb.co/4gx5pC8/action-remove.png)
